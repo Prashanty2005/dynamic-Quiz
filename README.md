@@ -1,4 +1,4 @@
-#Dynamic Cricket Quiz
+# Dynamic Cricket Quiz
 A responsive and interactive web-based quiz application designed to test your knowledge of cricket. This project dynamically loads questions, tracks user scores in real-time, and provides immediate feedback, offering an engaging and seamless quiz experience.
 
 # Features
@@ -14,7 +14,7 @@ Responsive Design: Styled with CSS to ensure a consistent and appealing layout a
 
 Clear Feedback: Users receive immediate visual confirmation of their total correct answers.
 
-#Technologies Used
+# Technologies Used
 HTML5: For the basic structure and content of the web page.
 
 CSS3: For styling and ensuring a responsive and visually attractive design.
